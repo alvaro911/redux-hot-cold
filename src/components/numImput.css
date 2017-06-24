@@ -1,0 +1,16 @@
+form{
+  width: 100%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 1.5em;
+  justify-content: center;
+}
+
+input{
+  width: 100%;
+  font-size: 1.3em;
+  padding: .3em;
+  color: #636363;
+  border: 1px solid rgb(164, 164, 164);
+}
